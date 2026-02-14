@@ -17,7 +17,7 @@ An interactive browser-based game where the user tries to guess a randomly gener
 
 HTML5, 
 CSS3, 
-JavaScript (Vanilla JS)
+JavaScript
 
 💡 How It Works
 
